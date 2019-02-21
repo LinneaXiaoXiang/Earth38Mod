@@ -1,6 +1,3 @@
-//GitHub Test
-//Test Comment 2
-
 package com.vamporgi.earth38;
 
 import com.vamporgi.earth38.block.ModBlocks;
