@@ -1,0 +1,76 @@
+[22:23:20] [main/INFO]: Setting user: Player198
+[22:23:29] [main/WARN]: Skipping bad option: lastServer:
+[22:23:30] [main/INFO]: LWJGL Version: 2.9.4
+[22:23:37] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
+[22:23:37] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
+[22:24:03] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:24:03] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[22:24:03] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:24:03] [Thread-5/INFO]: OpenAL initialized.
+[22:24:03] [Sound Library Loader/INFO]: Sound engine started
+[22:24:17] [main/INFO]: Created: 2048x2048 textures-atlas
+[22:24:22] [main/WARN]: Skipping bad option: lastServer:
+[22:24:22] [main/INFO]: Narrator library for x64 successfully loaded
+[22:24:24] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[22:24:29] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[22:24:29] [Server thread/INFO]: Generating keypair
+[22:24:31] [Server thread/INFO]: Loaded 488 advancements
+[22:24:32] [Server thread/INFO]: Preparing start region for level 0
+[22:24:33] [Server thread/INFO]: Preparing spawn area: 0%
+[22:24:34] [Server thread/INFO]: Preparing spawn area: 55%
+[22:24:35] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:24:38] [Server thread/INFO]: Player198[local:E:de798e86] logged in with entity id 341 at (135.94720687147338, 66.0, 240.69999998807907)
+[22:24:38] [Server thread/INFO]: Player198 joined the game
+[22:24:41] [Server thread/INFO]: Saving and pausing game...
+[22:24:41] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[22:24:41] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[22:24:41] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[22:24:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2541ms behind, skipping 50 tick(s)
+[22:24:41] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@7be0acae[id=26d3a8a7-c365-3f1b-98bd-1e86d16aa724,name=Player198,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3154) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_151]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_151]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_151]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_151]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
+[22:24:42] [main/INFO]: Loaded 5 advancements
+[22:25:00] [Server thread/INFO]: Saving and pausing game...
+[22:25:00] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[22:25:01] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[22:25:01] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[22:27:14] [main/INFO]: Stopping!
+[22:27:14] [Server thread/INFO]: Stopping server
+[22:27:14] [Server thread/INFO]: Saving players
+[22:27:15] [Server thread/INFO]: Saving worlds
+[22:27:15] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[22:27:15] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[22:27:15] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[22:27:15] [main/INFO]: SoundSystem shutting down...
+[22:27:15] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[22:27:15] [Server thread/INFO]: [STDERR]: java.lang.IllegalStateException: Display not created
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at org.lwjgl.opengl.Display.processMessages(Display.java:598)
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.client.FMLClientHandler.processWindowMessages(FMLClientHandler.java:1062)
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.FMLCommonHandler.processWindowMessages(FMLCommonHandler.java:656)
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.ProgressManager$ProgressBar.step(ProgressManager.java:132)
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:229)
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.Loader.fireRemapEvent(Loader.java:962)
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at net.minecraftforge.registries.GameData.revertToFrozen(GameData.java:247)
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.Loader.serverStopped(Loader.java:892)
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.FMLCommonHandler.handleServerStopped(FMLCommonHandler.java:510)
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:651)
+[22:27:15] [Server thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Thread.java:748)
