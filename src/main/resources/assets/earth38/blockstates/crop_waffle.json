@@ -1,0 +1,50 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cross"
+  },
+  "variants": {
+    "age": {
+      "0": {
+        "textures": {
+          "cross": "earth38:blocks/waffle/0"
+        }
+      },
+      "1": {
+        "textures": {
+          "cross": "earth38:blocks/waffle/1"
+        }
+      },
+      "2": {
+        "textures": {
+          "cross": "earth38:blocks/waffle/2"
+        }
+      },
+      "3": {
+        "textures": {
+          "cross": "earth38:blocks/waffle/3"
+        }
+      },
+      "4": {
+        "textures": {
+          "cross": "earth38:blocks/waffle/4"
+        }
+      },
+      "5": {
+        "textures": {
+          "cross": "earth38:blocks/waffle/5"
+        }
+      },
+      "6": {
+        "textures": {
+          "cross": "earth38:blocks/waffle/6"
+        }
+      },
+      "7": {
+        "textures": {
+          "cross": "earth38:blocks/waffle/7"
+        }
+      }
+    }
+  }
+}

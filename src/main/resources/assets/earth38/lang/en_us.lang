@@ -1,5 +1,7 @@
 # Items
 item.ingot_violet.name=Violet Ingot
+item.waffle.name=Waffle
+item.waffle_seed.name=Waffle Seed
 
 # Blocks
 tile.ore_violet.name=Violet Ore
