@@ -1,59 +1,67 @@
-[17:14:48] [main/INFO]: Setting user: Player327
-[17:14:55] [main/WARN]: Skipping bad option: lastServer:
-[17:14:55] [main/INFO]: LWJGL Version: 2.9.4
-[17:15:03] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
-[17:15:03] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
-[17:15:25] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[17:15:25] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[17:15:25] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[17:15:26] [Thread-5/INFO]: OpenAL initialized.
-[17:15:26] [Sound Library Loader/INFO]: Sound engine started
-[17:15:39] [main/INFO]: Created: 2048x2048 textures-atlas
-[17:15:43] [main/WARN]: Skipping bad option: lastServer:
-[17:15:43] [main/INFO]: Narrator library for x64 successfully loaded
-[17:15:46] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[17:15:52] [Server thread/INFO]: Starting integrated minecraft server version 1.12
-[17:15:52] [Server thread/INFO]: Generating keypair
-[17:15:55] [Server thread/INFO]: Loaded 488 advancements
-[17:15:55] [Server thread/INFO]: Preparing start region for level 0
-[17:15:57] [Server thread/INFO]: Preparing spawn area: 4%
-[17:15:58] [Server thread/INFO]: Preparing spawn area: 98%
-[17:15:58] [Server thread/INFO]: Changing view distance to 12, from 10
-[17:16:01] [Server thread/INFO]: Player327[local:E:794cd96a] logged in with entity id 364 at (109.16679712519476, 64.0, 269.5936277565662)
-[17:16:01] [Server thread/INFO]: Player327 joined the game
-[17:16:03] [Server thread/INFO]: Saving and pausing game...
-[17:16:03] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[17:16:04] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[17:16:04] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[17:16:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2569ms behind, skipping 51 tick(s)
-[17:16:05] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@51ebf32b[id=29308414-ff71-3cdd-a4fa-c0ef7b0196d4,name=Player327,properties={},legacy=false]
-com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
-	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
-	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
-	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
-	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
-	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3154) [Minecraft.class:?]
-	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_151]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_151]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_151]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_151]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
-[17:16:14] [main/INFO]: Stopping!
-[17:16:14] [Server thread/INFO]: Stopping server
-[17:16:14] [Server thread/INFO]: Saving players
-[17:16:14] [Server thread/INFO]: Saving worlds
-[17:16:14] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[17:16:14] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[17:16:14] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[17:16:15] [main/INFO]: SoundSystem shutting down...
-[17:16:15] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[21:25:21] [main/INFO]: Setting user: Player598
+[21:25:30] [main/WARN]: Skipping bad option: lastServer:
+[21:25:30] [main/INFO]: LWJGL Version: 2.9.4
+[21:25:40] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
+[21:25:40] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
+[21:26:22] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:26:22] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[21:26:22] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:26:23] [Thread-5/INFO]: OpenAL initialized.
+[21:26:23] [Sound Library Loader/INFO]: Sound engine started
+[21:26:38] [main/INFO]: Created: 2048x2048 textures-atlas
+[21:26:43] [main/WARN]: Skipping bad option: lastServer:
+[21:26:43] [main/INFO]: Narrator library for x64 successfully loaded
+[21:26:45] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[21:26:50] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[21:26:50] [Server thread/INFO]: Generating keypair
+[21:26:53] [Server thread/INFO]: Loaded 488 advancements
+[21:26:53] [Server thread/INFO]: Preparing start region for level 0
+[21:26:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:55] [Server thread/INFO]: Preparing spawn area: 55%
+[21:26:56] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:26:59] [Server thread/INFO]: Player598[local:E:419c67a1] logged in with entity id 359 at (109.31158289010666, 68.0, 248.42320957396527)
+[21:26:59] [Server thread/INFO]: Player598 joined the game
+[21:27:02] [Server thread/INFO]: Saving and pausing game...
+[21:27:02] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[21:27:02] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[21:27:02] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[21:27:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2438ms behind, skipping 48 tick(s)
+[21:27:03] [main/INFO]: Loaded 21 advancements
+[21:27:13] [main/INFO]: [CHAT] Usage: /time <set|add|query> <value>
+[21:27:19] [main/INFO]: [CHAT] Usage: /time <set|add|query> <value>
+[21:27:26] [main/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[21:27:29] [main/INFO]: [CHAT] --- Showing help page 1 of 8 (/help <page>) ---
+[21:27:29] [main/INFO]: [CHAT] /advancement <grant|revoke|test> <player>
+[21:27:29] [main/INFO]: [CHAT] /blockdata <x> <y> <z> <dataTag>
+[21:27:29] [main/INFO]: [CHAT] /clear [player] [item] [data] [maxCount] [dataTag]
+[21:27:29] [main/INFO]: [CHAT] /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[21:27:29] [main/INFO]: [CHAT] /debug <start|stop>
+[21:27:29] [main/INFO]: [CHAT] /defaultgamemode <mode>
+[21:27:29] [main/INFO]: [CHAT] /difficulty <new difficulty>
+[21:27:29] [main/INFO]: [CHAT] Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[21:27:42] [main/INFO]: [CHAT] /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger
+[21:27:43] [main/INFO]: [CHAT] /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger
+[21:27:43] [main/INFO]: [CHAT] /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger
+[21:27:44] [main/INFO]: [CHAT] /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger
+[21:27:44] [main/INFO]: [CHAT] /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger
+[21:27:44] [main/INFO]: [CHAT] /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger
+[21:27:44] [main/INFO]: [CHAT] /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger
+[21:27:45] [main/INFO]: [CHAT] /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger
+[21:27:49] [main/INFO]: [CHAT] Usage: /time <set|add|query> <value>
+[21:27:56] [main/INFO]: [CHAT] Usage: /time <set|add|query> <value>
+[21:28:17] [main/INFO]: [CHAT] Usage: /time <set|add|query> <value>
+[21:28:32] [Server thread/INFO]: [Player598: Set the time to 1000]
+[21:28:32] [main/INFO]: [CHAT] Set the time to 1000
+[21:29:10] [Server thread/INFO]: [Player598: Set own game mode to Creative Mode]
+[21:29:10] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[21:29:15] [Server thread/INFO]: [Player598: Set own game mode to Survival Mode]
+[21:29:15] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[21:29:29] [main/INFO]: Stopping!
+[21:29:29] [Server thread/INFO]: Stopping server
+[21:29:29] [Server thread/INFO]: Saving players
+[21:29:29] [Server thread/INFO]: Saving worlds
+[21:29:29] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[21:29:30] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[21:29:30] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[21:29:30] [main/INFO]: SoundSystem shutting down...
+[21:29:30] [main/WARN]: Author: Paul Lamb, www.paulscode.com
