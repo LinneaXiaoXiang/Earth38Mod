@@ -4,6 +4,7 @@ import com.vamporgi.earth38.block.ModBlocks;
 import com.vamporgi.earth38.client.Earth38Tab;
 import com.vamporgi.earth38.item.ModItems;
 import com.vamporgi.earth38.proxy.CommonProxy;
+import com.vamporgi.earth38.recipe.ModRecipes;
 import net.minecraft.block.Block;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
@@ -35,6 +36,7 @@ public class Earth38Mod {
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
+        ModRecipes.init();
 
     }
 
