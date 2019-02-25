@@ -10,8 +10,11 @@ public class ItemWaffleSeed extends ItemSeeds {
 
     public ItemWaffleSeed() {
         super(ModBlocks.cropWaffle, Blocks.FARMLAND);
+
         setUnlocalizedName("waffle_seed");
         setRegistryName("waffle_seed");
+
+        setCreativeTab(Earth38Mod.creativeTab);
     }
 
     public void registerItemModel() {

@@ -1,63 +1,58 @@
-[15:03:46] [main/INFO]: Setting user: Player135
-[15:03:54] [main/WARN]: Skipping bad option: lastServer:
-[15:03:54] [main/INFO]: LWJGL Version: 2.9.4
-[15:04:02] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
-[15:04:02] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
-[15:04:27] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[15:04:28] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[15:04:28] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[15:04:28] [Thread-5/INFO]: OpenAL initialized.
-[15:04:28] [Sound Library Loader/INFO]: Sound engine started
-[15:04:41] [main/INFO]: Created: 2048x2048 textures-atlas
-[15:04:44] [main/WARN]: Skipping bad option: lastServer:
-[15:04:44] [main/INFO]: Narrator library for x64 successfully loaded
-[15:04:46] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[15:04:53] [Server thread/INFO]: Starting integrated minecraft server version 1.12
-[15:04:53] [Server thread/INFO]: Generating keypair
-[15:04:55] [Server thread/INFO]: Loaded 488 advancements
-[15:04:56] [Server thread/INFO]: Preparing start region for level 0
-[15:04:57] [Server thread/INFO]: Preparing spawn area: 1%
-[15:04:58] [Server thread/INFO]: Preparing spawn area: 73%
-[15:04:58] [Server thread/INFO]: Changing view distance to 12, from 10
-[15:05:01] [Server thread/INFO]: Player135[local:E:c4b85dfd] logged in with entity id 359 at (108.39355074444292, 63.0, 273.65012842285967)
-[15:05:01] [Server thread/INFO]: Player135 joined the game
-[15:05:04] [Server thread/INFO]: Saving and pausing game...
-[15:05:04] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[15:05:05] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[15:05:05] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[15:05:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2808ms behind, skipping 56 tick(s)
-[15:05:05] [main/INFO]: Loaded 12 advancements
-[15:06:21] [Server thread/INFO]: [Player135: Set own game mode to Survival Mode]
-[15:06:21] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
-[15:06:26] [Server thread/INFO]: [Player135: Set own game mode to Creative Mode]
-[15:06:26] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
-[15:06:28] [Server thread/INFO]: Saving and pausing game...
-[15:06:28] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[15:06:28] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[15:06:28] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[15:06:37] [main/INFO]: [CHAT] 'day' is not a valid number
-[15:07:05] [Server thread/INFO]: <Player135> t set day
-[15:07:05] [main/INFO]: [CHAT] <Player135> t set day
-[15:07:20] [Server thread/INFO]: [Player135: Set the time to 1000]
-[15:07:20] [main/INFO]: [CHAT] Set the time to 1000
-[15:07:42] [Server thread/INFO]: Saving and pausing game...
-[15:07:43] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[15:07:43] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[15:07:43] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[15:08:15] [main/INFO]: Loaded 18 advancements
-[15:08:34] [Server thread/INFO]: Saving and pausing game...
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[15:08:34] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[15:08:35] [Server thread/INFO]: Stopping server
-[15:08:35] [Server thread/INFO]: Saving players
-[15:08:35] [Server thread/INFO]: Player135 lost connection: Disconnected
-[15:08:35] [Server thread/INFO]: Player135 left the game
-[15:08:35] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[15:08:35] [Server thread/INFO]: Saving worlds
-[15:08:35] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[15:08:35] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[15:08:35] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[15:08:37] [main/INFO]: Stopping!
-[15:08:37] [main/INFO]: SoundSystem shutting down...
-[15:08:38] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:24:22] [main/INFO]: Setting user: Player841
+[16:24:30] [main/WARN]: Skipping bad option: lastServer:
+[16:24:30] [main/INFO]: LWJGL Version: 2.9.4
+[16:24:37] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
+[16:24:38] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
+[16:24:47] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:24:48] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[16:24:48] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:24:48] [Thread-5/INFO]: OpenAL initialized.
+[16:24:48] [Sound Library Loader/INFO]: Sound engine started
+[16:25:03] [main/INFO]: Created: 2048x2048 textures-atlas
+[16:25:07] [main/WARN]: Skipping bad option: lastServer:
+[16:25:07] [main/INFO]: Narrator library for x64 successfully loaded
+[16:25:09] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:25:14] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[16:25:14] [Server thread/INFO]: Generating keypair
+[16:25:16] [Server thread/INFO]: Loaded 488 advancements
+[16:25:16] [Server thread/INFO]: Preparing start region for level 0
+[16:25:17] [Server thread/INFO]: Preparing spawn area: 0%
+[16:25:18] [Server thread/INFO]: Preparing spawn area: 54%
+[16:25:19] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:25:22] [Server thread/INFO]: Player841[local:E:08d64395] logged in with entity id 368 at (109.16679712519476, 64.0, 269.5936277565662)
+[16:25:22] [Server thread/INFO]: Player841 joined the game
+[16:25:25] [Server thread/INFO]: Saving and pausing game...
+[16:25:25] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[16:25:25] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[16:25:25] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[16:25:25] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@f85ec2f[id=197d9491-ff34-3fd1-8394-1aadd56cfa2c,name=Player841,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3154) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_151]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_151]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_151]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_151]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
+[16:25:52] [main/INFO]: Stopping!
+[16:25:52] [Server thread/INFO]: Stopping server
+[16:25:52] [Server thread/INFO]: Saving players
+[16:25:52] [Server thread/INFO]: Saving worlds
+[16:25:52] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[16:25:53] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[16:25:53] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[16:25:53] [main/INFO]: SoundSystem shutting down...
+[16:25:53] [main/WARN]: Author: Paul Lamb, www.paulscode.com

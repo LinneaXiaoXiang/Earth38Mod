@@ -1,3 +1,6 @@
+#Item Tabs
+itemGroup.tabMod = Earth 38 Mod
+
 # Items
 item.ingot_violet.name=Violet Ingot
 item.waffle.name=Waffle

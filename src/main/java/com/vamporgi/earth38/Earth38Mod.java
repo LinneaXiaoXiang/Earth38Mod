@@ -1,10 +1,13 @@
 package com.vamporgi.earth38;
 
 import com.vamporgi.earth38.block.ModBlocks;
+import com.vamporgi.earth38.client.Earth38Tab;
 import com.vamporgi.earth38.item.ModItems;
 import com.vamporgi.earth38.proxy.CommonProxy;
 import net.minecraft.block.Block;
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
@@ -20,6 +23,7 @@ public class Earth38Mod {
     public static final String modId = "earth38";
     public static final String name = "Earth 38 Mod";
     public static final String version = "1.0.0";
+    public static final Earth38Tab creativeTab = new Earth38Tab();
 
     @Mod.Instance(modId)
     public static Earth38Mod instance;

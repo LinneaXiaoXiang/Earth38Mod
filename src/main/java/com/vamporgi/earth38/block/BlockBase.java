@@ -18,6 +18,8 @@ public class BlockBase extends Block {
 
         setUnlocalizedName(name);
         setRegistryName(name);
+
+        setCreativeTab(Earth38Mod.creativeTab);
     }
 
     public void registerItemModel(Item itemBlock) {

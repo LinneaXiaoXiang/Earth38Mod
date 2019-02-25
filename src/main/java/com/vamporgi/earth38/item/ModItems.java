@@ -6,9 +6,9 @@ import net.minecraftforge.registries.IForgeRegistry;
 
 public class ModItems {
 
-    public static ItemBase ingotViolet = new ItemBase("ingot_violet").setCreativeTab(CreativeTabs.MATERIALS);
+    public static ItemBase ingotViolet = new ItemBase("ingot_violet");
     public static ItemWaffleSeed waffleSeed = new ItemWaffleSeed();
-    public static ItemBase waffle = new ItemBase("waffle").setCreativeTab(CreativeTabs.FOOD);
+    public static ItemBase waffle = new ItemBase("waffle");
 
     public static void register(IForgeRegistry<Item> registry) {
         registry.registerAll(

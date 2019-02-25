@@ -10,8 +10,11 @@ public class ItemBase extends Item{
 
     public ItemBase(String name) {
         this.name = name;
+
         setUnlocalizedName(name);
         setRegistryName(name);
+
+        setCreativeTab(Earth38Mod.creativeTab);
     }
 
     public void registerItemModel() {
