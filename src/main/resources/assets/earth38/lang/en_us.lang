@@ -1,10 +1,8 @@
 #Item Tabs
-itemGroup.tabMod = Earth 38 Mod
+itemGroup.creativeTab = Earth 38 Mod
 
 # Items
 item.ingot_violet.name=Violet Ingot
-item.waffle.name=Waffle
-item.waffle_seed.name=Waffle Seed
 
 # Blocks
 tile.ore_violet.name=Violet Ore
