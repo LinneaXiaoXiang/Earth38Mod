@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "earth38:items/waffle_seed"
+    "layer0": "earth38:items/waffle_pieces"
   }
 }

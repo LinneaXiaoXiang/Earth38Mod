@@ -4,9 +4,10 @@ itemGroup.earth38=Earth 38 Mod
 # Items
 item.ingot_violet.name=Violet Ingot
 item.waffle.name=Waffle
-item.waffle_seed.name=Waffle Seed
+item.waffle_pieces.name=Waffle Pieces
 item.blueberry.name=Blueberry
 item.blueberry_seed.name=Blueberry Seed
+item.blueberry_waffle.name=Blueberry Waffle
 
 # Blocks
 tile.ore_violet.name=Violet Ore

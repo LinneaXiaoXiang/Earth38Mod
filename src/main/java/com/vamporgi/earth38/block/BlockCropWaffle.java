@@ -16,7 +16,7 @@ public class BlockCropWaffle extends BlockCrops {
 
     @Override
     protected Item getSeed() {
-        return ModItems.waffleSeed;
+        return ModItems.wafflePieces;
     }
 
     @Override

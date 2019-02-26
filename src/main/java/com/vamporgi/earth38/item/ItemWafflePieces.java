@@ -6,19 +6,19 @@ import net.minecraft.item.ItemSeeds;
 import com.vamporgi.earth38.Earth38Mod;
 import com.vamporgi.earth38.block.ModBlocks;
 
-public class ItemWaffleSeed extends ItemSeeds {
+public class ItemWafflePieces extends ItemSeeds {
 
-    public ItemWaffleSeed() {
+    public ItemWafflePieces() {
         super(ModBlocks.cropWaffle, Blocks.FARMLAND);
 
-        setUnlocalizedName("waffle_seed");
-        setRegistryName("waffle_seed");
+        setUnlocalizedName("waffle_pieces");
+        setRegistryName("waffle_pieces");
 
         setCreativeTab(Earth38Mod.creativeTab);
     }
 
     public void registerItemModel() {
-        Earth38Mod.proxy.registerItemRenderer(this, 0, "waffle_seed");
+        Earth38Mod.proxy.registerItemRenderer(this, 0, "waffle_pieces");
     }
 
 }
