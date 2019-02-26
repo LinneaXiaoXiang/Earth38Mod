@@ -1,33 +1,32 @@
-[18:15:52] [main/INFO]: Setting user: Player190
-[18:15:59] [main/WARN]: Skipping bad option: lastServer:
-[18:15:59] [main/INFO]: LWJGL Version: 2.9.4
-[18:16:06] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
-[18:16:07] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
-[18:16:14] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[18:16:14] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[18:16:14] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[18:16:15] [Thread-5/INFO]: OpenAL initialized.
-[18:16:15] [Sound Library Loader/INFO]: Sound engine started
-[18:16:28] [main/INFO]: Created: 4096x4096 textures-atlas
-[18:16:32] [main/WARN]: Skipping bad option: lastServer:
-[18:16:32] [main/INFO]: Narrator library for x64 successfully loaded
-[18:16:33] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[18:16:39] [Server thread/INFO]: Starting integrated minecraft server version 1.12
-[18:16:39] [Server thread/INFO]: Generating keypair
-[18:16:44] [Server thread/INFO]: Loaded 488 advancements
-[18:16:45] [Server thread/INFO]: Preparing start region for level 0
-[18:16:46] [Server thread/INFO]: Preparing spawn area: 6%
-[18:16:47] [Server thread/INFO]: Preparing spawn area: 98%
-[18:16:47] [Server thread/INFO]: Changing view distance to 12, from 10
-[18:16:49] [Server thread/INFO]: Player190[local:E:d8e603a6] logged in with entity id 334 at (136.7626585538747, 66.0, 239.70878424012616)
-[18:16:49] [Server thread/INFO]: Player190 joined the game
-[18:16:49] [Server thread/INFO]: Player190 has made the advancement [Stone Age]
-[18:16:51] [Server thread/INFO]: Saving and pausing game...
-[18:16:51] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[18:16:52] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[18:16:52] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[18:16:52] [main/INFO]: [CHAT] Player190 has made the advancement [Stone Age]
-[18:16:52] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@7b07c726[id=73e86b1c-09ff-3572-8fd3-6ef90ffece87,name=Player190,properties={},legacy=false]
+[18:24:54] [main/INFO]: Setting user: Player904
+[18:25:01] [main/WARN]: Skipping bad option: lastServer:
+[18:25:01] [main/INFO]: LWJGL Version: 2.9.4
+[18:25:08] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
+[18:25:09] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
+[18:25:16] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:25:17] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[18:25:17] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:25:17] [Thread-5/INFO]: OpenAL initialized.
+[18:25:17] [Sound Library Loader/INFO]: Sound engine started
+[18:25:30] [main/INFO]: Created: 4096x4096 textures-atlas
+[18:25:36] [main/WARN]: Skipping bad option: lastServer:
+[18:25:36] [main/INFO]: Narrator library for x64 successfully loaded
+[18:25:37] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[18:27:12] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[18:27:12] [Server thread/INFO]: Generating keypair
+[18:27:14] [Server thread/INFO]: Loaded 488 advancements
+[18:27:14] [Server thread/INFO]: Preparing start region for level 0
+[18:27:15] [Server thread/INFO]: Preparing spawn area: 5%
+[18:27:16] [Server thread/INFO]: Preparing spawn area: 96%
+[18:27:16] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:27:19] [Server thread/INFO]: Player904[local:E:299993e5] logged in with entity id 337 at (130.1960894619466, 66.0, 240.5388894594159)
+[18:27:19] [Server thread/INFO]: Player904 joined the game
+[18:27:19] [Server thread/INFO]: Player904 has made the advancement [Stone Age]
+[18:27:22] [Server thread/INFO]: Saving and pausing game...
+[18:27:22] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[18:27:22] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[18:27:22] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[18:27:22] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@38b3c547[id=c4f44bdc-3735-3cd8-a9bc-fcc7058fd604,name=Player904,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
@@ -49,22 +48,43 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_151]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_151]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
-[18:16:52] [main/INFO]: Loaded 23 advancements
-[18:18:10] [main/INFO]: Loaded 24 advancements
-[18:18:21] [main/INFO]: Loaded 25 advancements
-[18:19:00] [Server thread/INFO]: Saving and pausing game...
-[18:19:01] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[18:19:01] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[18:19:01] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[18:19:01] [Server thread/INFO]: Stopping server
-[18:19:01] [Server thread/INFO]: Saving players
-[18:19:01] [Server thread/INFO]: Player190 lost connection: Disconnected
-[18:19:01] [Server thread/INFO]: Player190 left the game
-[18:19:01] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[18:19:01] [Server thread/INFO]: Saving worlds
-[18:19:01] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[18:19:01] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[18:19:01] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[18:19:05] [main/INFO]: Stopping!
-[18:19:05] [main/INFO]: SoundSystem shutting down...
-[18:19:05] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:27:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2342ms behind, skipping 46 tick(s)
+[18:27:23] [main/INFO]: [CHAT] Player904 has made the advancement [Stone Age]
+[18:27:23] [main/INFO]: Loaded 24 advancements
+[18:27:34] [Server thread/INFO]: [Player904: Set the time to 1000]
+[18:27:34] [main/INFO]: [CHAT] Set the time to 1000
+[18:27:40] [Server thread/INFO]: Saving and pausing game...
+[18:27:40] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[18:27:41] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[18:27:41] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[18:27:53] [Server thread/INFO]: Stopping server
+[18:27:53] [Server thread/INFO]: Saving players
+[18:27:53] [Server thread/INFO]: Player904 lost connection: Disconnected
+[18:27:53] [Server thread/INFO]: Player904 left the game
+[18:27:53] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:27:53] [Server thread/INFO]: Saving worlds
+[18:27:53] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[18:27:53] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[18:27:53] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[18:27:57] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[18:27:57] [Server thread/INFO]: Generating keypair
+[18:27:58] [Server thread/INFO]: Loaded 488 advancements
+[18:27:58] [Server thread/INFO]: Preparing start region for level 0
+[18:27:59] [Server thread/INFO]: Preparing spawn area: 68%
+[18:28:00] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:28:00] [Server thread/INFO]: Player904[local:E:81e50e06] logged in with entity id 841 at (130.1960894619466, 66.0, 240.5388894594159)
+[18:28:00] [Server thread/INFO]: Player904 joined the game
+[18:28:01] [Server thread/INFO]: Saving and pausing game...
+[18:28:01] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[18:28:01] [main/INFO]: Loaded 24 advancements
+[18:28:02] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[18:28:02] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[18:28:42] [main/INFO]: Stopping!
+[18:28:42] [Server thread/INFO]: Stopping server
+[18:28:42] [Server thread/INFO]: Saving players
+[18:28:42] [Server thread/INFO]: Saving worlds
+[18:28:42] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[18:28:43] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[18:28:43] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[18:28:43] [main/INFO]: SoundSystem shutting down...
+[18:28:43] [main/WARN]: Author: Paul Lamb, www.paulscode.com
