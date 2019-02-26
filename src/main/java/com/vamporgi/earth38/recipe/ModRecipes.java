@@ -8,6 +8,10 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 public class ModRecipes {
 
     public static void init() {
+        //Ore Dict
+        ModBlocks.oreViolet.initOreDict();
+        ModItems.ingotViolet.initOreDict();
+
         GameRegistry.addSmelting(ModBlocks.oreViolet, new ItemStack(ModItems.ingotViolet), 0.7f);
     }
 

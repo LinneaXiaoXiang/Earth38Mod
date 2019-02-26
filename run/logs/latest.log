@@ -1,45 +1,62 @@
-[18:41:25] [main/INFO]: Setting user: Player402
-[18:41:32] [main/WARN]: Skipping bad option: lastServer:
-[18:41:32] [main/INFO]: LWJGL Version: 2.9.4
-[18:41:39] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
-[18:41:39] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
-[18:41:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[18:41:49] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[18:41:49] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[18:41:50] [Thread-5/INFO]: OpenAL initialized.
-[18:41:50] [Sound Library Loader/INFO]: Sound engine started
-[18:42:06] [main/INFO]: Created: 4096x4096 textures-atlas
-[18:42:12] [main/WARN]: Skipping bad option: lastServer:
-[18:42:12] [main/INFO]: Narrator library for x64 successfully loaded
-[18:42:13] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[18:42:18] [Server thread/INFO]: Starting integrated minecraft server version 1.12
-[18:42:18] [Server thread/INFO]: Generating keypair
-[18:42:20] [Server thread/INFO]: Loaded 488 advancements
-[18:42:20] [Server thread/INFO]: Preparing start region for level 0
-[18:42:21] [Server thread/INFO]: Preparing spawn area: 4%
-[18:42:22] [Server thread/INFO]: Preparing spawn area: 94%
-[18:42:23] [Server thread/INFO]: Changing view distance to 12, from 10
-[18:42:25] [Server thread/INFO]: Player402[local:E:ef6464fe] logged in with entity id 346 at (135.51987200313954, 66.0, 239.84871707270716)
-[18:42:25] [Server thread/INFO]: Player402 joined the game
-[18:42:29] [Server thread/INFO]: Saving and pausing game...
-[18:42:29] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[18:42:29] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[18:42:29] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[18:42:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3968ms behind, skipping 79 tick(s)
-[18:42:29] [main/INFO]: Loaded 13 advancements
-[18:43:06] [Server thread/INFO]: Saving and pausing game...
-[18:43:06] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[18:43:06] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[18:43:06] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[18:43:07] [Server thread/INFO]: Stopping server
-[18:43:07] [Server thread/INFO]: Saving players
-[18:43:07] [Server thread/INFO]: Player402 lost connection: Disconnected
-[18:43:07] [Server thread/INFO]: Player402 left the game
-[18:43:07] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[18:43:07] [Server thread/INFO]: Saving worlds
-[18:43:07] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[18:43:07] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[18:43:07] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[18:43:11] [main/INFO]: Stopping!
-[18:43:11] [main/INFO]: SoundSystem shutting down...
-[18:43:11] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[14:22:28] [main/INFO]: Setting user: Player470
+[14:22:36] [main/WARN]: Skipping bad option: lastServer:
+[14:22:36] [main/INFO]: LWJGL Version: 2.9.4
+[14:22:51] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
+[14:22:51] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
+[14:23:26] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:23:26] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[14:23:26] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:23:27] [Thread-5/INFO]: OpenAL initialized.
+[14:23:27] [Sound Library Loader/INFO]: Sound engine started
+[14:23:41] [main/INFO]: Created: 4096x4096 textures-atlas
+[14:23:46] [main/WARN]: Skipping bad option: lastServer:
+[14:23:46] [main/INFO]: Narrator library for x64 successfully loaded
+[14:23:49] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[14:25:05] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[14:25:05] [Server thread/INFO]: Generating keypair
+[14:25:07] [Server thread/INFO]: Loaded 488 advancements
+[14:25:07] [Server thread/INFO]: Preparing start region for level 0
+[14:25:09] [Server thread/INFO]: Preparing spawn area: 0%
+[14:25:10] [Server thread/INFO]: Preparing spawn area: 74%
+[14:25:11] [Server thread/INFO]: Changing view distance to 12, from 10
+[14:25:14] [Server thread/INFO]: Player470[local:E:d500e915] logged in with entity id 350 at (135.48509238651275, 66.0, 240.3344192639309)
+[14:25:14] [Server thread/INFO]: Player470 joined the game
+[14:25:16] [Server thread/INFO]: Saving and pausing game...
+[14:25:16] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[14:25:17] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[14:25:17] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[14:25:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2323ms behind, skipping 46 tick(s)
+[14:25:17] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@27b5e1af[id=f861b4cb-4ad2-3047-bede-1f92822d0050,name=Player470,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3154) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_151]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_151]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_151]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_151]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
+[14:25:18] [main/INFO]: Loaded 13 advancements
+[14:27:01] [Server thread/INFO]: [Player470: Set the time to 1000]
+[14:27:01] [main/INFO]: [CHAT] Set the time to 1000
+[14:27:25] [main/INFO]: Stopping!
+[14:27:26] [Server thread/INFO]: Stopping server
+[14:27:26] [Server thread/INFO]: Saving players
+[14:27:26] [Server thread/INFO]: Saving worlds
+[14:27:26] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[14:27:26] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[14:27:26] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[14:27:26] [main/INFO]: SoundSystem shutting down...
+[14:27:26] [main/WARN]: Author: Paul Lamb, www.paulscode.com

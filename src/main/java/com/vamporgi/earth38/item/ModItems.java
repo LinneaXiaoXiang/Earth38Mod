@@ -5,7 +5,7 @@ import net.minecraftforge.registries.IForgeRegistry;
 
 public class ModItems {
 
-    public static ItemBase ingotViolet = new ItemBase("ingot_violet");
+    public static ItemOre ingotViolet = new ItemOre("ingot_violet", "ingotViolet");
     public static ItemWafflePieces wafflePieces = new ItemWafflePieces();
     public static ItemBase waffle = new ItemBase("waffle");
     public static ItemBlueberrySeed blueberrySeed = new ItemBlueberrySeed();

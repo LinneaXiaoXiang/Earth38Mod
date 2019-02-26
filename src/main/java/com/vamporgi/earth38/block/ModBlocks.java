@@ -8,7 +8,7 @@ import net.minecraftforge.registries.IForgeRegistry;
 
 public class ModBlocks {
 
-    public static BlockOre oreViolet = new BlockOre("ore_violet");
+    public static BlockOre oreViolet = new BlockOre("ore_violet", "oreViolet");
     public static BlockCropWaffle cropWaffle = new BlockCropWaffle();
     public static BlockCropBlueberry cropBlueberry = new BlockCropBlueberry();
 
