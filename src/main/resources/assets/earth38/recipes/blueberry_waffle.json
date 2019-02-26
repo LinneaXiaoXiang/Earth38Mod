@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " P ",
+    " B "
+  ],
+  "key": {
+    "P": {
+      "item": "earth38:blueberry"
+    },
+    "B": {
+      "item": "earth38:waffle"
+    }
+  },
+  "result": {
+    "item": "earth38:blueberry_waffle"
+  }
+}
