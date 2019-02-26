@@ -10,11 +10,13 @@ public class ModBlocks {
 
     public static BlockOre oreViolet = new BlockOre("ore_violet");
     public static BlockCropWaffle cropWaffle = new BlockCropWaffle();
+    public static BlockCropBlueberry cropBlueberry = new BlockCropBlueberry();
 
     public static void register(IForgeRegistry<Block> registry) {
         registry.registerAll(
                 oreViolet,
-                cropWaffle
+                cropWaffle,
+                cropBlueberry
         );
     }
 

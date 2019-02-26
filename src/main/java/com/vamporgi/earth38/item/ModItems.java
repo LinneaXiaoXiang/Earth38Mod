@@ -9,12 +9,16 @@ public class ModItems {
     public static ItemBase ingotViolet = new ItemBase("ingot_violet");
     public static ItemWaffleSeed waffleSeed = new ItemWaffleSeed();
     public static ItemBase waffle = new ItemBase("waffle");
+    public static ItemBlueberrySeed blueberrySeed = new ItemBlueberrySeed();
+    public static ItemBase blueberry = new ItemBase("blueberry");
 
     public static void register(IForgeRegistry<Item> registry) {
         registry.registerAll(
                 ingotViolet,
                 waffleSeed,
-                waffle
+                waffle,
+                blueberrySeed,
+                blueberry
         );
     }
 
@@ -22,6 +26,8 @@ public class ModItems {
         ingotViolet.registerItemModel();
         waffleSeed.registerItemModel();
         waffle.registerItemModel();
+        blueberrySeed.registerItemModel();
+        blueberry.registerItemModel();
     }
 
 }

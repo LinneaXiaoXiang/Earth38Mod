@@ -1,31 +1,33 @@
-[21:39:34] [main/INFO]: Setting user: Player719
-[21:39:42] [main/WARN]: Skipping bad option: lastServer:
-[21:39:42] [main/INFO]: LWJGL Version: 2.9.4
-[21:39:51] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
-[21:39:52] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
-[21:40:02] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[21:40:02] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[21:40:02] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[21:40:02] [Thread-5/INFO]: OpenAL initialized.
-[21:40:02] [Sound Library Loader/INFO]: Sound engine started
-[21:40:17] [main/INFO]: Created: 2048x2048 textures-atlas
-[21:40:23] [main/WARN]: Skipping bad option: lastServer:
-[21:40:23] [main/INFO]: Narrator library for x64 successfully loaded
-[21:40:25] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[21:40:31] [Server thread/INFO]: Starting integrated minecraft server version 1.12
-[21:40:31] [Server thread/INFO]: Generating keypair
-[21:40:33] [Server thread/INFO]: Loaded 488 advancements
-[21:40:34] [Server thread/INFO]: Preparing start region for level 0
-[21:40:35] [Server thread/INFO]: Preparing spawn area: 0%
-[21:40:36] [Server thread/INFO]: Preparing spawn area: 56%
-[21:40:37] [Server thread/INFO]: Changing view distance to 12, from 10
-[21:40:40] [Server thread/INFO]: Player719[local:E:566f25d0] logged in with entity id 356 at (109.31158289010666, 68.0, 248.42320957396527)
-[21:40:40] [Server thread/INFO]: Player719 joined the game
-[21:40:43] [Server thread/INFO]: Saving and pausing game...
-[21:40:43] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[21:40:43] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[21:40:43] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[21:40:43] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@2ebb48cd[id=f835675c-e0ba-394b-82c9-8aaebeea0b9f,name=Player719,properties={},legacy=false]
+[15:59:40] [main/INFO]: Setting user: Player562
+[15:59:49] [main/WARN]: Skipping bad option: lastServer:
+[15:59:49] [main/INFO]: LWJGL Version: 2.9.4
+[15:59:58] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
+[15:59:58] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
+[16:00:24] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:00:25] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[16:00:25] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:00:25] [Thread-5/INFO]: OpenAL initialized.
+[16:00:25] [Sound Library Loader/INFO]: Sound engine started
+[16:00:41] [main/INFO]: Created: 4096x4096 textures-atlas
+[16:00:47] [main/WARN]: Skipping bad option: lastServer:
+[16:00:47] [main/INFO]: Narrator library for x64 successfully loaded
+[16:00:49] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:00:58] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[16:00:58] [Server thread/INFO]: Generating keypair
+[16:01:00] [Server thread/INFO]: Loaded 488 advancements
+[16:01:00] [Server thread/INFO]: Preparing start region for level 0
+[16:01:01] [Server thread/INFO]: Preparing spawn area: 0%
+[16:01:02] [Server thread/INFO]: Preparing spawn area: 56%
+[16:01:03] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:01:06] [Server thread/INFO]: Player562[local:E:1dc67258] logged in with entity id 369 at (131.6632991102847, 66.0, 250.24422620976853)
+[16:01:06] [Server thread/INFO]: Player562 joined the game
+[16:01:07] [Server thread/INFO]: Player562 has made the advancement [Stone Age]
+[16:01:09] [Server thread/INFO]: Saving and pausing game...
+[16:01:09] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[16:01:10] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[16:01:10] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[16:01:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2717ms behind, skipping 54 tick(s)
+[16:01:10] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@16176953[id=37815b4b-a277-3e88-89c9-687629f7c447,name=Player562,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
@@ -47,37 +49,22 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_151]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_151]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
-[21:40:43] [main/INFO]: Loaded 25 advancements
-[21:40:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2611ms behind, skipping 52 tick(s)
-[21:40:59] [Server thread/INFO]: [Player719: Set own game mode to Survival Mode]
-[21:40:59] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
-[21:41:03] [Server thread/INFO]: [Player719: Set own game mode to Creative Mode]
-[21:41:03] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
-[21:41:47] [Server thread/INFO]: [Player719: Set own game mode to Survival Mode]
-[21:41:47] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
-[21:42:11] [main/INFO]: Loaded 26 advancements
-[21:42:26] [Server thread/INFO]: Player719 has made the advancement [Stone Age]
-[21:42:26] [main/INFO]: [CHAT] Player719 has made the advancement [Stone Age]
-[21:42:26] [main/INFO]: Loaded 40 advancements
-[21:42:40] [Server thread/INFO]: [Player719: Set own game mode to Creative Mode]
-[21:42:40] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
-[21:42:58] [Server thread/INFO]: [Player719: Set own game mode to Creative Mode]
-[21:42:58] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
-[21:43:03] [Server thread/INFO]: [Player719: Set own game mode to Survival Mode]
-[21:43:03] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
-[21:43:26] [Server thread/INFO]: Saving and pausing game...
-[21:43:26] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[21:43:26] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[21:43:26] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[21:43:27] [Server thread/INFO]: Stopping server
-[21:43:27] [Server thread/INFO]: Saving players
-[21:43:27] [Server thread/INFO]: Player719 lost connection: Disconnected
-[21:43:27] [Server thread/INFO]: Player719 left the game
-[21:43:27] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[21:43:27] [Server thread/INFO]: Saving worlds
-[21:43:27] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[21:43:27] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[21:43:27] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[21:43:30] [main/INFO]: Stopping!
-[21:43:30] [main/INFO]: SoundSystem shutting down...
-[21:43:31] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:01:10] [main/INFO]: [CHAT] Player562 has made the advancement [Stone Age]
+[16:01:10] [main/INFO]: Loaded 24 advancements
+[16:01:37] [Server thread/INFO]: Saving and pausing game...
+[16:01:37] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[16:01:37] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[16:01:37] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[16:01:45] [Server thread/INFO]: [Player562: Set own game mode to Survival Mode]
+[16:01:45] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[16:01:48] [Server thread/INFO]: [Player562: Set own game mode to Creative Mode]
+[16:01:49] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[16:02:00] [main/INFO]: Stopping!
+[16:02:00] [Server thread/INFO]: Stopping server
+[16:02:00] [Server thread/INFO]: Saving players
+[16:02:00] [Server thread/INFO]: Saving worlds
+[16:02:00] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[16:02:00] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[16:02:00] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[16:02:01] [main/INFO]: SoundSystem shutting down...
+[16:02:01] [main/WARN]: Author: Paul Lamb, www.paulscode.com
