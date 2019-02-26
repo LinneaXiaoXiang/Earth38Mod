@@ -7,7 +7,7 @@ public class ModItems {
 
     public static ItemOre ingotViolet = new ItemOre("ingot_violet", "ingotViolet");
     public static ItemWafflePieces wafflePieces = new ItemWafflePieces();
-    public static ItemBase waffle = new ItemBase("waffle");
+    public static ItemWaffle waffle = new ItemWaffle();
     public static ItemBlueberrySeed blueberrySeed = new ItemBlueberrySeed();
     public static ItemBase blueberry = new ItemBase("blueberry");
     public static ItemBase blueberryWaffle = new ItemBase("blueberry_waffle");
@@ -26,7 +26,7 @@ public class ModItems {
     public static void registerModels() {
         ingotViolet.registerItemModel();
         wafflePieces.registerItemModel();
-        waffle.registerItemModel();
+        waffle.registerItemModel(waffle);
         blueberrySeed.registerItemModel();
         blueberry.registerItemModel();
         blueberryWaffle.registerItemModel();
