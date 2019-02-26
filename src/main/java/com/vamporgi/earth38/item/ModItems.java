@@ -9,8 +9,8 @@ public class ModItems {
     public static ItemWafflePieces wafflePieces = new ItemWafflePieces();
     public static ItemWaffle waffle = new ItemWaffle();
     public static ItemBlueberrySeed blueberrySeed = new ItemBlueberrySeed();
-    public static ItemBase blueberry = new ItemBase("blueberry");
-    public static ItemBase blueberryWaffle = new ItemBase("blueberry_waffle");
+    public static ItemBlueberry blueberry = new ItemBlueberry();
+    public static ItemBlueberryWaffle blueberryWaffle = new ItemBlueberryWaffle();
 
     public static void register(IForgeRegistry<Item> registry) {
         registry.registerAll(
@@ -28,8 +28,8 @@ public class ModItems {
         wafflePieces.registerItemModel();
         waffle.registerItemModel(waffle);
         blueberrySeed.registerItemModel();
-        blueberry.registerItemModel();
-        blueberryWaffle.registerItemModel();
+        blueberry.registerItemModel(blueberry);
+        blueberryWaffle.registerItemModel(blueberryWaffle);
     }
 
 }
