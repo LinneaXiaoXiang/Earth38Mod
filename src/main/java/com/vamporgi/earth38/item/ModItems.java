@@ -45,7 +45,7 @@ public class ModItems {
         violetSword.registerItemModel(violetSword);
         violetPickaxe.registerItemModel(violetPickaxe);
         violetAxe.registerItemModel(violetAxe);
-        violetSword.registerItemModel(violetShovel);
+        violetShovel.registerItemModel(violetShovel);
         violetHoe.registerItemModel(violetHoe);
     }
 
