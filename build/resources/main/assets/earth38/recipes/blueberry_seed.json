@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "earth38:blueberry"
+    }
+  ],
+  "result": {
+    "item": "earth38:blueberry_seed"
+  }
+}

@@ -5,6 +5,9 @@
       <module name="com.yourname.modid.Earth38.api" target="1.8" />
       <module name="com.yourname.modid.Earth38.main" target="1.8" />
       <module name="com.yourname.modid.Earth38.test" target="1.8" />
+      <module name="com.yourname.modid.Earth38Mod.api" target="1.8" />
+      <module name="com.yourname.modid.Earth38Mod.main" target="1.8" />
+      <module name="com.yourname.modid.Earth38Mod.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

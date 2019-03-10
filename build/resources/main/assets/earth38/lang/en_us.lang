@@ -1,0 +1,14 @@
+#Item Tabs
+itemGroup.earth38=Earth 38 Mod
+
+# Items
+item.ingot_violet.name=Violet Ingot
+item.waffle.name=Waffle
+item.waffle_pieces.name=Waffle Pieces
+item.blueberry.name=Blueberry
+item.blueberry_seed.name=Blueberry Seed
+item.blueberry_waffle.name=Blueberry Waffle
+item.violet_sword.name=Violet Sword
+
+# Blocks
+tile.ore_violet.name=Violet Ore
