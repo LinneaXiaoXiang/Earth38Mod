@@ -21,12 +21,12 @@ public class ModItems {
 
     public static void register(IForgeRegistry<Item> registry) {
         registry.registerAll(
-                ingotViolet,
                 wafflePieces,
                 waffle,
                 blueberrySeed,
                 blueberry,
                 blueberryWaffle,
+                ingotViolet,
                 violetSword,
                 violetPickaxe,
                 violetAxe,

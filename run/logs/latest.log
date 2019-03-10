@@ -1,42 +1,75 @@
-[13:25:50] [main/INFO]: Setting user: Player634
-[13:25:57] [main/WARN]: Skipping bad option: lastServer:
-[13:25:57] [main/INFO]: LWJGL Version: 2.9.4
-[13:26:04] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
-[13:26:04] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
-[13:26:33] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[13:26:33] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[13:26:33] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[13:26:34] [Thread-5/INFO]: OpenAL initialized.
-[13:26:34] [Sound Library Loader/INFO]: Sound engine started
-[13:26:50] [main/INFO]: Created: 8192x4096 textures-atlas
-[13:26:57] [main/WARN]: Skipping bad option: lastServer:
-[13:26:57] [main/INFO]: Narrator library for x64 successfully loaded
-[13:26:58] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[13:27:52] [Server thread/INFO]: Starting integrated minecraft server version 1.12
-[13:27:52] [Server thread/INFO]: Generating keypair
-[13:27:53] [Server thread/INFO]: Loaded 488 advancements
-[13:27:54] [Server thread/INFO]: Preparing start region for level 0
-[13:27:55] [Server thread/INFO]: Preparing spawn area: 47%
-[13:27:55] [Server thread/INFO]: Changing view distance to 12, from 10
-[13:27:58] [Server thread/INFO]: Player634[local:E:20851a65] logged in with entity id 160 at (66.95799543471975, 11.0, 1303.5946629876614)
-[13:27:58] [Server thread/INFO]: Player634 joined the game
-[13:28:00] [Server thread/INFO]: Saving and pausing game...
-[13:28:00] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[13:28:00] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[13:28:00] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[13:28:16] [Server thread/INFO]: Saving and pausing game...
-[13:28:17] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[13:28:17] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[13:28:17] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[13:28:17] [Server thread/INFO]: Stopping server
-[13:28:17] [Server thread/INFO]: Saving players
-[13:28:18] [Server thread/INFO]: Player634 lost connection: Disconnected
-[13:28:18] [Server thread/INFO]: Player634 left the game
-[13:28:18] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[13:28:18] [Server thread/INFO]: Saving worlds
-[13:28:18] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
-[13:28:18] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
-[13:28:18] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
-[13:28:19] [main/INFO]: Stopping!
-[13:28:19] [main/INFO]: SoundSystem shutting down...
-[13:28:20] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[13:55:49] [main/INFO]: Setting user: Player396
+[13:55:58] [main/WARN]: Skipping bad option: lastServer:
+[13:55:58] [main/INFO]: LWJGL Version: 2.9.4
+[13:56:08] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
+[13:56:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:56:43] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[13:56:43] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:56:43] [Thread-5/INFO]: OpenAL initialized.
+[13:56:44] [Sound Library Loader/INFO]: Sound engine started
+[13:57:04] [main/INFO]: Created: 8192x4096 textures-atlas
+[13:57:08] [main/WARN]: Skipping bad option: lastServer:
+[13:57:08] [main/INFO]: Narrator library for x64 successfully loaded
+[13:57:10] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[13:57:51] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[13:57:51] [Server thread/INFO]: Generating keypair
+[13:57:53] [Server thread/INFO]: Loaded 488 advancements
+[13:57:55] [Server thread/INFO]: Preparing start region for level 0
+[13:57:56] [Server thread/INFO]: Preparing spawn area: 4%
+[13:57:57] [Server thread/INFO]: Preparing spawn area: 9%
+[13:57:58] [Server thread/INFO]: Preparing spawn area: 16%
+[13:57:59] [Server thread/INFO]: Preparing spawn area: 22%
+[13:58:00] [Server thread/INFO]: Preparing spawn area: 29%
+[13:58:01] [Server thread/INFO]: Preparing spawn area: 34%
+[13:58:02] [Server thread/INFO]: Preparing spawn area: 41%
+[13:58:03] [Server thread/INFO]: Preparing spawn area: 48%
+[13:58:04] [Server thread/INFO]: Preparing spawn area: 55%
+[13:58:05] [Server thread/INFO]: Preparing spawn area: 62%
+[13:58:06] [Server thread/INFO]: Preparing spawn area: 69%
+[13:58:07] [Server thread/INFO]: Preparing spawn area: 76%
+[13:58:08] [Server thread/INFO]: Preparing spawn area: 83%
+[13:58:09] [Server thread/INFO]: Preparing spawn area: 90%
+[13:58:10] [Server thread/INFO]: Preparing spawn area: 97%
+[13:58:11] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:58:14] [Server thread/INFO]: Player396[local:E:928eb55d] logged in with entity id 2178 at (217.5, 77.0, 125.5)
+[13:58:14] [Server thread/INFO]: Player396 joined the game
+[13:58:18] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@70a169ae[id=7ba45a5a-c3de-3909-ba3c-f9f78edf15b6,name=Player396,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3154) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_151]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_151]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_151]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_151]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_151]
+[13:58:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10350ms behind, skipping 207 tick(s)
+[13:58:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13593ms behind, skipping 271 tick(s)
+[13:58:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5874ms behind, skipping 117 tick(s)
+[13:59:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3425ms behind, skipping 68 tick(s)
+[13:59:30] [main/INFO]: Loaded 7 advancements
+[14:00:49] [Server thread/INFO]: Saving and pausing game...
+[14:00:49] [Server thread/INFO]: Saving chunks for level 'Violet Ore'/overworld
+[14:00:49] [Server thread/INFO]: Saving chunks for level 'Violet Ore'/the_nether
+[14:00:49] [Server thread/INFO]: Saving chunks for level 'Violet Ore'/the_end
+[14:00:49] [Server thread/INFO]: Stopping server
+[14:00:49] [Server thread/INFO]: Saving players
+[14:00:50] [Server thread/INFO]: Player396 lost connection: Disconnected
+[14:00:50] [Server thread/INFO]: Player396 left the game
+[14:00:50] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[14:00:50] [Server thread/INFO]: Saving worlds
+[14:00:50] [Server thread/INFO]: Saving chunks for level 'Violet Ore'/overworld
+[14:00:50] [Server thread/INFO]: Saving chunks for level 'Violet Ore'/the_nether
+[14:00:50] [Server thread/INFO]: Saving chunks for level 'Violet Ore'/the_end

@@ -5,6 +5,7 @@ import com.vamporgi.earth38.client.Earth38Tab;
 import com.vamporgi.earth38.item.ModItems;
 import com.vamporgi.earth38.proxy.CommonProxy;
 import com.vamporgi.earth38.recipe.ModRecipes;
+import com.vamporgi.earth38.world.ModWorldGen;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
@@ -16,6 +17,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.fml.common.registry.GameRegistry;
 
 @Mod(modid = Earth38Mod.modId, name = Earth38Mod.name, version = Earth38Mod.version)
 public class Earth38Mod {
@@ -31,7 +33,7 @@ public class Earth38Mod {
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        System.out.println(name + " is loading!");
+        GameRegistry.registerWorldGenerator(new ModWorldGen(), 3);
     }
 
     @Mod.EventHandler
