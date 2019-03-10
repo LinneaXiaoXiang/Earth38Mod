@@ -8,6 +8,7 @@ import com.vamporgi.earth38.recipe.ModRecipes;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
+import net.minecraftforge.common.util.EnumHelper;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
@@ -23,6 +24,7 @@ public class Earth38Mod {
     public static final String name = "Earth 38 Mod";
     public static final String version = "1.0.0";
     public static final Earth38Tab creativeTab = new Earth38Tab();
+    public static final Item.ToolMaterial violetToolMaterial = EnumHelper.addToolMaterial("VIOLET", 2, 500, 6, 2, 14);
 
     @Mod.Instance(modId)
     public static Earth38Mod instance;
