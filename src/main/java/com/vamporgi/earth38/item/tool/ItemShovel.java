@@ -2,12 +2,13 @@ package com.vamporgi.earth38.item.tool;
 
 import net.minecraft.item.Item;
 import com.vamporgi.earth38.Earth38Mod;
+import net.minecraft.item.ItemSpade;
 
-public class ItemSword extends net.minecraft.item.ItemSword {
+public class ItemShovel extends ItemSpade {
 
     private String name;
 
-    public ItemSword(ToolMaterial material, String name) {
+    public ItemShovel(ToolMaterial material, String name) {
         super(material);
         setRegistryName(name);
         setUnlocalizedName(name);
