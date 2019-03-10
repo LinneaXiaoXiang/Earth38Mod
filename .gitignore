@@ -4,3 +4,6 @@ run/logs/fml-client-1.log
 run/logs/fml-client-1.log
 run/logs/fml-client-2.log
 *.log
+run/usercache.json
+run/usercache.json
+run/usernamecache.json
