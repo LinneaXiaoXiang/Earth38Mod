@@ -9,6 +9,10 @@ item.blueberry.name=Blueberry
 item.blueberry_seed.name=Blueberry Seed
 item.blueberry_waffle.name=Blueberry Waffle
 item.violet_sword.name=Violet Sword
+item.violet_pickaxe.name=Violet Pickaxe
+item.violet_axe.name=Violet Axe
+item.violet_shovel.name=Violet Shovel
+item.violet_hoe.name=Violet Hoe
 
 # Blocks
 tile.ore_violet.name=Violet Ore

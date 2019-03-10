@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [13:20:00] [main/INFO]: Setting user: Player934
 [13:20:03] [main/WARN]: Skipping bad option: lastServer:
 [13:20:03] [main/INFO]: LWJGL Version: 2.9.2
@@ -71,3 +72,47 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 [13:25:22] [main/INFO]: Stopping!
 [13:25:22] [main/INFO]: SoundSystem shutting down...
 [13:25:23] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+=======
+[13:25:50] [main/INFO]: Setting user: Player634
+[13:25:57] [main/WARN]: Skipping bad option: lastServer:
+[13:25:57] [main/INFO]: LWJGL Version: 2.9.4
+[13:26:04] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Earth 38 Mod
+[13:26:04] [main/INFO]: [STDOUT]: Earth 38 Mod is loading!
+[13:26:33] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[13:26:33] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[13:26:33] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:26:34] [Thread-5/INFO]: OpenAL initialized.
+[13:26:34] [Sound Library Loader/INFO]: Sound engine started
+[13:26:50] [main/INFO]: Created: 8192x4096 textures-atlas
+[13:26:57] [main/WARN]: Skipping bad option: lastServer:
+[13:26:57] [main/INFO]: Narrator library for x64 successfully loaded
+[13:26:58] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[13:27:52] [Server thread/INFO]: Starting integrated minecraft server version 1.12
+[13:27:52] [Server thread/INFO]: Generating keypair
+[13:27:53] [Server thread/INFO]: Loaded 488 advancements
+[13:27:54] [Server thread/INFO]: Preparing start region for level 0
+[13:27:55] [Server thread/INFO]: Preparing spawn area: 47%
+[13:27:55] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:27:58] [Server thread/INFO]: Player634[local:E:20851a65] logged in with entity id 160 at (66.95799543471975, 11.0, 1303.5946629876614)
+[13:27:58] [Server thread/INFO]: Player634 joined the game
+[13:28:00] [Server thread/INFO]: Saving and pausing game...
+[13:28:00] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[13:28:00] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[13:28:00] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[13:28:16] [Server thread/INFO]: Saving and pausing game...
+[13:28:17] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[13:28:17] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[13:28:17] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[13:28:17] [Server thread/INFO]: Stopping server
+[13:28:17] [Server thread/INFO]: Saving players
+[13:28:18] [Server thread/INFO]: Player634 lost connection: Disconnected
+[13:28:18] [Server thread/INFO]: Player634 left the game
+[13:28:18] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:28:18] [Server thread/INFO]: Saving worlds
+[13:28:18] [Server thread/INFO]: Saving chunks for level 'Earth 38'/overworld
+[13:28:18] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_nether
+[13:28:18] [Server thread/INFO]: Saving chunks for level 'Earth 38'/the_end
+[13:28:19] [main/INFO]: Stopping!
+[13:28:19] [main/INFO]: SoundSystem shutting down...
+[13:28:20] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+>>>>>>> 6d2d5d3612c63a55402448f448b5b18720f9e689

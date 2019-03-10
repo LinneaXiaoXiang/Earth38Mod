@@ -3,11 +3,11 @@ package com.vamporgi.earth38.item.tool;
 import net.minecraft.item.Item;
 import com.vamporgi.earth38.Earth38Mod;
 
-public class ItemSword extends net.minecraft.item.ItemSword {
+public class ItemPickaxe extends net.minecraft.item.ItemPickaxe {
 
     private String name;
 
-    public ItemSword(ToolMaterial material, String name) {
+    public ItemPickaxe (ToolMaterial material, String name) {
         super(material);
         setRegistryName(name);
         setUnlocalizedName(name);
