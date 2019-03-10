@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "earth38:items/violet_sword"
+    "layer0": "earth38:items/violet_shovel"
   }
 }
