@@ -26,7 +26,7 @@ public class Earth38Mod {
     public static final String name = "Earth 38 Mod";
     public static final String version = "1.0.0";
     public static final Earth38Tab creativeTab = new Earth38Tab();
-    public static final Item.ToolMaterial violetToolMaterial = EnumHelper.addToolMaterial("VIOLET", 2, 500, 6, 2, 14);
+    public static final Item.ToolMaterial violetToolMaterial = EnumHelper.addToolMaterial("VIOLET", 2, 500, 6, 5, 14);
 
     @Mod.Instance(modId)
     public static Earth38Mod instance;
